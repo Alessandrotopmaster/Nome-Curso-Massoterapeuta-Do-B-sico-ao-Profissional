@@ -1,0 +1,5 @@
+Adicione aqui:
+- imagens/ — posturas, manobras e organização do ambiente
+- audio/ — explicações de movimentos e dicas de atendimento
+- videos/ — demonstrações de técnicas e cuidados
+- provas/ — exercícios e modelos de ficha de avaliação e orçamento
